@@ -82,31 +82,49 @@ Software Developer
 Roles and Responsibilities:
 
 1.Code Development: Write, test, and maintain code according to the design specifications. Implement features and functionality as outlined in the project requirements.
+
 2.Design and Architecture: Collaborate with team members to design software architecture and components. Ensure the design aligns with the project requirements and best practices.
+
 3.Bug Fixing: Identify and fix defects or bugs in the software. Conduct debugging to resolve issues and ensure the software functions correctly.
+
 4.Code Reviews: Participate in code reviews to ensure code quality, consistency, and adherence to coding standards. Provide constructive feedback to peers.
+
 5.Documentation: Create and maintain technical documentation, including code comments, design documents, and user guides, to facilitate understanding and maintenance of the software.
+
 6.Collaboration: Work closely with other team members, including QA Engineers and Project Managers, to ensure alignment on project goals, requirements, and deadlines.
 
 Quality Assurance (QA) Engineer
 Roles and Responsibilities:
 1.Test Planning: Develop test plans and test cases based on project requirements and specifications. Identify test scenarios and create comprehensive testing strategies.
+
 2.Manual and Automated Testing: Execute manual and automated tests to validate the functionality, performance, and security of the software. Ensure that the software meets quality standards and user expectations.
+
 3.Defect Reporting: Identify, document, and report defects or issues found during testing. Work with developers to reproduce issues and verify fixes.
+
 4.Test Automation: Implement and maintain automated test scripts and frameworks to improve testing efficiency and coverage.
+
 5.Regression Testing: Perform regression testing to ensure that new changes or features do not adversely affect existing functionality.
+
 6.Collaboration: Work with developers, product managers, and other stakeholders to understand requirements, provide feedback, and ensure that quality standards are met.
+
 Project Manager
+
 Roles and Responsibilities:
 
 1.Project Planning: Develop project plans, including scope, timeline, budget, and resource allocation. Define project goals, deliverables, and milestones.
+
 2.Task Coordination: Assign tasks and responsibilities to team members. Ensure that tasks are completed on time and within scope.
+
 Stakeholder Communication: Act as the primary point of contact between the development team and stakeholders. Provide regular updates on project progress, risks, and issues.
+
 3.Risk Management: Identify and manage project risks. Develop mitigation strategies to address potential issues and minimize impact on the project.
+
 4.Quality Assurance: Ensure that the project meets quality standards and adheres to best practices. Oversee the implementation of processes and methodologies to ensure successful project delivery.
+
 5.Budget and Resource Management: Monitor project expenses and ensure that resources are used efficiently. Adjust budgets and resource allocation as needed to stay within project constraints.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Integrated Development Environments (IDEs)
 Importance:
 
